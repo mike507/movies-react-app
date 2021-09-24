@@ -1,0 +1,5 @@
+const CATEGORY_ALL = 'ALL';
+const ELEMENTS = [4, 8, 12];
+const FIRST_PAGE = 1;
+
+export {CATEGORY_ALL, ELEMENTS, FIRST_PAGE};
